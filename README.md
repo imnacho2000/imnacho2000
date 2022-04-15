@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ignacio Carrera</h1>
+<h1 align="center">Hi 👋, I'm Ignacio Carrera 🦈</h1>
 <h3 align="center">I am a student of the University Programmer Analyst (APU) career at the National University of La Plata (UNLP)</h3>
 
 - 🌱 I’m currently learning **at the university and in courses at UDEMY**
